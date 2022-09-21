@@ -21,7 +21,7 @@ img{
     width: 450px;
     height: 400px;
     position:absolute;
-	top: 5%;
+	top: 250%;
 	left: 10%;
 	transform: translateX(180%);
 	bottom: auto;
@@ -31,7 +31,7 @@ img{
     width: 450px;
     height: 400px;
     position:absolute;
-	top: 80%;
+	top: 320%;
 	left: 10%;
 	transform: translateZ(80%);
 	bottom: auto;
@@ -41,7 +41,7 @@ img{
     width: 400px;
     height: 400px;
     position:absolute;
-	top: 150%;
+	top: 395%;
 	left: 10%;
 	transform: translateX(200%);
 	bottom: auto;
@@ -50,7 +50,7 @@ img{
     width: 400px;
     height: 400px;
     position:absolute;
-	top: 220%;
+	top: 460%;
 	left: 10%;
 	transform: translateZ(80%);
 	bottom: auto;
@@ -59,12 +59,24 @@ h4{
     text-align: center;
     color: aliceblue;
 }
+.text{
+	width: 1200px;
+    height: auto;
+	margin:auto;
+	position:absolute;
+	top: 125%;
+	left: 10%;
+	bottom: auto;
+	
+	bottom: auto;
+    color: aliceblue;
+}
 .text1 u li{
     width: 800px;
     height: auto;
 	margin:auto;
 	position:absolute;
-	top: 5%;
+	top: 250%;
 	left: 10%;
 	transform: translateY(80%);
 	bottom: auto;
@@ -77,7 +89,7 @@ h4{
     height: auto;
 	margin:auto;
 	position:absolute;
-	top: 100%;
+	top: 340%;
 	left: 10%;
 	transform: translateX(70%);
 	bottom: auto;
@@ -90,7 +102,7 @@ h4{
     height: auto;
 	margin:auto;
 	position:absolute;
-	top: 170%;
+	top: 410%;
 	left: 10%;
 	transform: translateZ(80%);
 	bottom: auto;
@@ -103,11 +115,38 @@ h4{
     height: auto;
 	margin: 5px;;
 	position:absolute;
-	top: 240%;
+	top: 480%;
 	left: 10%;
 	transform: translateX(70%);
 	bottom: auto;
     color: aliceblue;
    
     
+}
+h2{
+	text-align: center;
+    color: aliceblue;
+	position:absolute;
+	top: 110%;
+	left: 40%;
+	transform: translateY(50%);
+	bottom: auto;
+	
+}
+h1{
+	text-align: center;
+    color: aliceblue;
+	position:absolute;
+	top: 230%;
+	left: 40%;
+	transform: translateY(50%);
+	bottom: auto;
+}
+
+.image{
+	margin: 10px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 350px;
+	
 }
