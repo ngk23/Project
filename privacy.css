@@ -1,0 +1,12 @@
+
+.text{
+	width: 1200px;
+    height: auto;
+	margin:auto;
+	position:absolute;
+	top: 125%;
+	left: 10%;
+	bottom: auto;
+    padding: 25%;
+    color: aliceblue;
+}
