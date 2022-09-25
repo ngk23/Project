@@ -71,7 +71,7 @@ h4{
 	bottom: auto;
     color: aliceblue;
 }
-.text1 u li{
+.text1 ul li{
     width: 800px;
     height: auto;
 	margin:auto;
@@ -84,7 +84,7 @@ h4{
    
     
 }
-.text2 u li{
+.text2 ul li{
     width: 800px;
     height: auto;
 	margin:auto;
@@ -97,7 +97,7 @@ h4{
    
     
 }
-.text3 u li{
+.text3 ul li{
     width: 800px;
     height: auto;
 	margin:auto;
@@ -110,7 +110,7 @@ h4{
    
     
 }
-.text4 u li{
+.text4 ul li{
     width: 800px;
     height: auto;
 	margin: 5px;;
@@ -149,4 +149,8 @@ h1{
 	float: left;
 	width: 350px;
 	
+}
+
+ul li{
+ list-style: circle;
 }
