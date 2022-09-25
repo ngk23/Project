@@ -6,16 +6,16 @@ const planDuration = document.querySelectorAll(".plan-duration");
 
 plansSwitch.addEventListener("change", () => {
     if (plansSwitch.checked) {
-        basicPrice.innerText = "$349";
-        professionalPrice.innerText = "$999";
-        businessPrice.innerText = "$799";
+        basicPrice.innerText = "₹3599";
+        professionalPrice.innerText = "₹9999";
+        businessPrice.innerText = "₹7999";
         planDuration.forEach(p => {
             p.innerText = "/ year";
         })
     } else {
-        basicPrice.innerText = "$90";
-        professionalPrice.innerText = "$159";
-        businessPrice.innerText = "$129";
+        basicPrice.innerText = "₹999";
+        professionalPrice.innerText = "₹1500";
+        businessPrice.innerText = "₹1200";
         planDuration.forEach(p => {
             p.innerText = "/ month";
         })

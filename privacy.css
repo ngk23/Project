@@ -1,3 +1,14 @@
+*{
+	width: 100%;
+	height: fit-content;
+	scroll-behavior: auto;
+}
+
+
+body{
+	background: url(privacy.jpg);
+	border-image-repeat: calc(100hv);
+}
 
 .text{
 	width: 1200px;
@@ -8,5 +19,13 @@
 	left: 10%;
 	bottom: auto;
     padding: 25%;
-    color: aliceblue;
+    color: #fff;
+	
 }
+.textcolor{
+	color: #fff;
+	text-decoration: none;
+
+}
+
+
