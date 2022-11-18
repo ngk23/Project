@@ -2,4 +2,4 @@
 
 
 
-Click to visit website:
+Click to visit website:https://ngk23.github.io/TempletForGym_RR_Gyms/
